@@ -1,7 +1,6 @@
-# [Demo App]
+# [Geolocation App]
 ##[react-native-background-geolocation](http://transistorsoft.github.io/react-native-background-geolocation/)
 
-Fully-featured, React Native demo application for [React Native Background Geolocation Module](http://transistorsoft.github.io/react-native-background-geolocation/)
 
 ![Home](https://dl.dropboxusercontent.com/u/2319755/cordova-background-geolocaiton/screenshot-iphone5-geofences-framed-README.png)
 ![Settings](https://dl.dropboxusercontent.com/u/2319755/cordova-background-geolocaiton/screenshot-iphone5-settings-framed-README.png)
@@ -14,11 +13,6 @@ $ cd rn-background-geolocation-demo
 $ npm install
 ```
 
-**Android users**: Install plugin from private repo ([requires license](http://shop.transistorsoft.com/pages/react-native-background-geolocation))
-
-```
-$ npm install git+https://git@github.com:transistorsoft/react-native-background-geolocation-android.git
-```
 
 - Now open as an XCode project
 
