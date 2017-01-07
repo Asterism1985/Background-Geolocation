@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/RCTMapboxGL/MGLPolyline+RCTAdditions.m \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/RCTMapboxGL/MGLPolyline+RCTAdditions.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Modules/module.modulemap \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/NSValue+MGLAdditions.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLUserLocation.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLTilePyramidOfflineRegion.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLStyle.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLOfflineStorage.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLOfflineRegion.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLOfflinePack.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMapViewDelegate.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMapView+MGLCustomStyleLayerAdditions.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMapView+IBAdditions.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMapView.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMapCamera.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLShapeCollection.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLPointAnnotation.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLPolygon.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLGeometry.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLOverlay.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLShape.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMultiPoint.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLPolyline.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLFeature.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLCoordinateFormatter.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLCompassDirectionFormatter.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLClockDirectionFormatter.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLCalloutView.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLAnnotationImage.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLAnnotation.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLAccountManager.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLTypes.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLAnnotationView.h \
+  /Users/asterism/Documents/Work/demo/rn-background-geolocation-demo-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/Mapbox.h
